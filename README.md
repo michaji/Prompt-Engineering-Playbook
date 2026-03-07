@@ -146,7 +146,7 @@ Do not include your opinion. Use plain language.
 ## ④ Common Mistakes & Fixes
 *What beginners get wrong — and how to correct it.*
 
-> [!WARNING] ⚠️ Tutor Note
+> [!WARNING] ⚠️
 > These are the six mistakes that appear most often in students' first attempts at prompting. Each one has a clear, teachable fix.
 
 | # | Mistake | Why It Fails | Fix |
