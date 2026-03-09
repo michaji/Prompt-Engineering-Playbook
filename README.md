@@ -17,3 +17,11 @@ The core focus of the playbook is broken down into:
 ## Who is this for?
 
 This repository is built for **educators, developers, and AI enthusiasts** who want to build a foundational understanding of prompt design. Whether you're debugging model output, building multi-step logic pipelines, or teaching core AI literacy to beginners, the principles found here are practical and backed by concrete examples.
+
+
+
+## 🏆 Capstone Highlight
+
+The capstone challenge demonstrates a **two-stage prompt chain** that converts a raw interview transcript into a structured candidate evaluation report — without human editing of the output.
+
+It combines role prompting, chain-of-thought reasoning, output formatting, and task decomposition into a single, coherent pipeline — showcasing what advanced prompt engineering looks like in a real workplace context.
